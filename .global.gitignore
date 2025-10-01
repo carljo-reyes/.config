@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.project
+.classpath
+.factorypath
+.settings
+.vscode
+target/
+
+config/application-cal.properties
